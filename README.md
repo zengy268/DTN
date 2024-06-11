@@ -1,5 +1,8 @@
 # Disentanglement Translation Network
-This is the open source code for paper: Multimodal Translation Network for Multimodal Sentiment Analysis
+This is the open source code for paper: Disentanglement Translation Network for Multimodal Sentiment Analysis
+
+I have just re-organized the codes but haven't finished proofreading yet. Please feel free to contact me by email.
+
 ## Table of Contents
 - [Description](##Description)
 - [Preparation](##Preparation)
